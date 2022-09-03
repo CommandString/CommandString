@@ -18,8 +18,10 @@
 </div>
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CommandString&show_icons=true&theme=midnight-purple">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandString&layout=compact&langs_count=7&theme=midnight-purple">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CommandString&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandString&layout=compact&langs_count=7&theme=midnight-purple">
+</div>
 
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <table>
