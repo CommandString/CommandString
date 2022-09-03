@@ -13,6 +13,8 @@
   <a href="https://discord.dog/232224992908017664" target="_blank">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=CommandString&style=flat-square&color=purple" alt=""/>
 </div>
 
 <!--
