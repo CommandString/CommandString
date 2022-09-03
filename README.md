@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <img src="https://cmdstrcl.ml/assets/img/command-hero.png" width="50%" align="center">
+  <img src="https://cmdstrcl.ml/assets/img/command-hero.png" width="80%" align="center">
   <br>
   <a href="https://www.linkedin.com/in/commandstring/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
