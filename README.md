@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋, I'm Michael, but most people know me as Command_String -->
 
-<img src="https://cmdstrcl.ml/assets/img/command-hero.png" align="center">
+<img src="https://cmdstrcl.ml/assets/img/command-hero.png" width="50%" align="center">
 
 <div id="badges" align="center">
   <h2>Socials</h2>
