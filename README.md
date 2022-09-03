@@ -16,5 +16,5 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=CommandString&style=flat-square&color=blue" alt=""/>
 </div>
----
-### :hammer_and_wrench: Languages and Tools :
+<hr>
+<h3>:hammer_and_wrench: Languages and Tools :</h3>
