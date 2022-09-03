@@ -20,6 +20,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CommandString&show_icons=true&theme=midnight-purple">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandString&layout=compact&langs_count=7&theme=midnight-purple">
-  <img src="https://github.com/stars/CommandString/lists/cmdstr-php">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CommandString&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=CommandString&theme=midnight-purple">
 </div>
