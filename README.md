@@ -1,9 +1,7 @@
-<!-- ### Hi there 👋, I'm Michael, but most people know me as Command_String -->
-
 <div id="badges" align="center">
   <img src="https://cmdstrcl.ml/assets/img/command-hero.png" width="50%" align="center">
   <br>
-  <h2>Socials</h2>
+  <hr>
   <a href="https://www.linkedin.com/in/commandstring/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
