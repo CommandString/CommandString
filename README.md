@@ -18,7 +18,7 @@
 </div>
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CommandString&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=CommandString&show_icons=true&theme=midnight-purple">
 
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <table>
