@@ -1,6 +1,8 @@
 <div id="badges" align="center">
   <img src="https://github.com/CommandString/CommandString/blob/main/commandstring.png" width="80%" align="center">
   <br>
+  <a href='https://ko-fi.com/U7U6JZ8SO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<br>
   <a href="https://www.linkedin.com/in/commandstring/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
