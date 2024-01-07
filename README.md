@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=CommandString&style=flat-square&color=blue" alt=""/>
+  <a href="https://wakatime.com/@f68c3f8f-5a96-43c1-99d4-48d6102931a6"><img src="https://wakatime.com/badge/user/f68c3f8f-5a96-43c1-99d4-48d6102931a6.svg" alt="Total time coded since May 5 2023" /></a>
 </div>
 <hr>
 <div align="center">
