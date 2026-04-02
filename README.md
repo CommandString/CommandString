@@ -3,6 +3,7 @@
   <br>
   <a href='https://ko-fi.com/U7U6JZ8SO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
+  <!--
   <a href="https://www.linkedin.com/in/commandstring/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +14,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <br>
+  -->
   <a href="https://wakatime.com/@f68c3f8f-5a96-43c1-99d4-48d6102931a6"><img src="https://wakatime.com/badge/user/f68c3f8f-5a96-43c1-99d4-48d6102931a6.svg" alt="Total time coded since May 5 2023" /></a>
 </div>
 <hr>
